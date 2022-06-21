@@ -1,4 +1,4 @@
-# How can I assist you? [やあ]
+# If you need anything, just ask.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Pl4st1c&show_icons=true&theme=radical" />
 
