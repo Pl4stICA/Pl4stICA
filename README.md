@@ -7,7 +7,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, I am a high school senior, eager to learn, with the hope of becoming a web designer one day and my names is
                 <b><a target="_blank" href="https://Pl4stICA.com">Pl4stICA</a></b>
         </samp>
 </h3>
